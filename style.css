@@ -10,6 +10,51 @@
  Text Domain:  masonic-child
 */
 @import url("../masonic/style.css");
-
-/* =Aquí empieza la personalización de tu tema
+/* =Masonic Child Theme
 -------------------------------------------------------------- */
+
+#masthead .masonic-search > input {
+    color: white;
+}
+
+.masonic-search-toggle {
+    height: 64px;
+}
+
+#masthead .masonic-search > input {
+    font-size: 14px;
+}
+
+.masonic-search-toggle .masonic-search {
+    margin: 6px auto 0;
+}
+
+.navigation {
+    background: none repeat scroll 0 0 #684C60;
+}
+
+#masonic .current_page_item a, #masonic .current-menu-item a {
+    background: #A798A3;
+}
+
+.sb-icon-search {
+    background: #A798A3;
+  }
+
+.masonic-search-toggle {
+    border-top: solid 2px #A798A3;
+}
+
+.blog-header {
+    background: none repeat scroll 0px 0px #684C60;
+    border-top: solid 2px white;
+}
+
+.blog-site-title h1, .blog-site-title h2 {
+    color: white;
+    font-size: 21px;
+}
+
+.blog-header {
+    padding: 22px 0 14px;
+}
