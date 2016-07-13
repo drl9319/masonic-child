@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Masonic Child
+ Theme URI:    http://odootricks.com
+ Description:  Masonic Theme
+ Author:       Daniel Rodriguez Lijo, Carlos Alba Ponce
+ Author URI:   http://odootricks.com
+ Template:     masonic
+ Version:      1.0.1
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  masonic-child
+*/
+@import url("../masonic/style.css");
+
+/* =Aquí empieza la personalización de tu tema
+-------------------------------------------------------------- */
