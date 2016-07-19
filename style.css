@@ -58,3 +58,16 @@
 .blog-header {
     padding: 22px 0 14px;
 }
+
+.header-image > figure > img{
+    height: 200px !important;
+   width: 500px !important;
+}
+
+.angled-background{
+   background: none;
+}
+
+.site-header {
+    background: white;
+}
