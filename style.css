@@ -143,3 +143,19 @@ footer .angled-background {
     width: 412px !important;
   }
 }
+
+/* Custom clases */
+
+.float-left{
+  float:left;
+  width: 45%;
+}
+
+.float-right{
+  float:right;
+  width: 45%;
+}
+
+.about-profile-image{
+  text-align: center;
+}
