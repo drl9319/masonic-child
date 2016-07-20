@@ -156,6 +156,14 @@ footer .angled-background {
   width: 45%;
 }
 
+.float-left > h3{
+  text-align: center;	
+}
+
+.float-right > h3{
+ text-align: center;
+}
+
 .about-profile-image{
   text-align: center;
 }
