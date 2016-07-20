@@ -131,6 +131,12 @@ footer .angled-background {
     color: White;
 }
 
+.primary-massonic-child{
+  margin-right: 4%;
+  width: 94%;
+  margin-left: 1.5%;
+}
+
 @media all and (max-width: 520px) {
   .header-image > figure > img {
     height: 150px !important;
