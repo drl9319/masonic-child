@@ -160,6 +160,12 @@ ul > .sub_menu_item_wpglobus_menu_switch > a{
   }
 }
 
+@media all and (max-width: 799px) {
+  #masonic{
+    background: #a24689;
+  }
+}
+
 /* Custom clases */
 
 .float-left{
