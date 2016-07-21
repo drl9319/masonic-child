@@ -137,6 +137,22 @@ footer .angled-background {
   margin-left: 1.5%;
 }
 
+nav li a:hover {
+    color: #a24689;
+    background: #E6E6E6;
+    font-weight: bold;
+}
+
+ul > .sub_menu_item_wpglobus_menu_switch > a:hover {
+    color: #a24689;
+    background: #E6E6E6;
+    font-weight: bold;
+}
+
+ul > .sub_menu_item_wpglobus_menu_switch > a{
+  background: #a24689 !important;
+}
+
 @media all and (max-width: 520px) {
   .header-image > figure > img {
     height: 150px !important;
@@ -166,4 +182,8 @@ footer .angled-background {
 
 .about-profile-image{
   text-align: center;
+}
+
+#post-252 > div > .socialMediaOnEveryPost{
+  display: none;
 }
